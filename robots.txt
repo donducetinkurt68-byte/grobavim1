@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://grabovoinumbers.blog/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
